@@ -50,5 +50,23 @@ The trained neural network is utilized to infer potential kinetic model paramete
 ### PlotsAndAnalysis
 The folder contains analyses including differential analysis and gene enrichment analysis of the burst kinetics inferred from scRNA-seq data, along with visualization. The names of the code files align with the serial numbers of the figure in the manuscript.
 
+## Citation
+If you use this repository in your research, please cite our paper:
+
+**Huang Zhiwei, Luo Songhao, Wang Zihao, Zhang Zhenquan, Jiang Benyuan, Nie Qing, Zhang Jiajun (2024)**  
+*Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage*  
+eLife, 13:RP100623. https://doi.org/10.7554/eLife.100623
+
+```bibtex
+@article{Huang2024_eLife,
+  title   = {Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage},
+  author  = {Huang, Zhiwei and Luo, Songhao and Wang, Zihao and Zhang, Zhenquan and Jiang, Benyuan and Nie, Qing and Zhang, Jiajun},
+  journal = {eLife},
+  year    = {2024},
+  volume  = {13},
+  pages   = {RP100623},
+  doi     = {10.7554/eLife.100623},
+  url     = {https://doi.org/10.7554/eLife.100623}
+}
 
 
